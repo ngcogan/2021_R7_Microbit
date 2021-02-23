@@ -1,4 +1,6 @@
-# Add your Python code here. E.g.
+# 20210223 - Scissors Paper Stone
+# This code has a minor change. Rather than using ARROW_W as the "Scissors" image, I have defined a variable called scissors, and in the variable it shows an image which looks more like a scissors.
+
 from microbit import *
 import random
 
